@@ -8,7 +8,7 @@ Quotation ——> Reaching new heights, one step at a time: The unyielding spiri
 Context ——> a red light is on a street corner.
 Quotation ——> In the heart of the city, a solitary beacon of crimson light stands guard at the intersection, casting an inviting glow on the cobblestone streets below, reminding passersby of the promise of a new day and the hope that lies within the heart of every city dweller.
 
-![alt text](image-2.jpg)
+![alt text](image-2.jpeg)
 Context ——> a girl on a swing.
 Quotation ——> Swinging through life with grace and ease, she dances in the wind, finding joy in the simplest of moments.
 
