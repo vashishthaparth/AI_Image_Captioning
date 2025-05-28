@@ -43,8 +43,8 @@ Use case: Perfect for **Instagram**, **content creators**, or **motivational pos
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your_username/AI-Captioning.git
-cd AI-Captioning
+git clone https://github.com/vashishthaparth/AI_Image_Captioning.git
+cd AI_Image_Captioning
 
 # (Optional) Create a virtual environment
 python -m venv venv
