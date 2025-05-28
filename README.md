@@ -34,7 +34,7 @@ Use case: Perfect for **Instagram**, **content creators**, or **motivational pos
 
 - Python
 - [BLIP](https://github.com/salesforce/BLIP)  (Bootstrapped Language Image Pretraining)
-- Transformers & Mistral(Hugging Face)  (for quote generation)
+- Transformers & [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3/tree/main)(Hugging Face)  (for quote generation)
 - Pillow, Matplotlib
 - PyTorch
 
