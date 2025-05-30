@@ -53,4 +53,4 @@ source venv/bin/activate  # or venv\Scripts\activate
 pip install -r requirements.txt
 
 # Run the pipeline
-python generate.py
+python main.py
